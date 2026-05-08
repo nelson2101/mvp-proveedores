@@ -1,0 +1,36 @@
+{
+  "source": "sepa_viernes.zip",
+  "locality": "La Plata",
+  "generated_at": "2026-05-08T17:28:14",
+  "rows": 496,
+  "branches": [
+    {
+      "proveedor": "MAXICONSUMO",
+      "id_sucursal": "17",
+      "sucursal": "Sucursal La Plata"
+    },
+    {
+      "proveedor": "Supermayorista Vital",
+      "id_sucursal": "0013",
+      "sucursal": "La Plata"
+    }
+  ],
+  "rows_by_product": {
+    "aceite": 31,
+    "agua-mineral": 3,
+    "arroz": 43,
+    "azucar": 18,
+    "cerveza": 23,
+    "detergente": 18,
+    "fideos": 34,
+    "gaseosas": 26,
+    "harina": 17,
+    "leche": 126,
+    "papel-higienico": 8,
+    "yerba-mate": 149
+  },
+  "rows_by_supplier": {
+    "MAXICONSUMO": 199,
+    "Supermayorista Vital": 297
+  }
+}

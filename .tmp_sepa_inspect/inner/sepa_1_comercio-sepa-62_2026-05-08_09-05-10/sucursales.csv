@@ -1,0 +1,7 @@
+id_comercio|id_bandera|id_sucursal|sucursales_nombre|sucursales_tipo|sucursales_calle|sucursales_numero|sucursales_latitud|sucursales_longitud|sucursales_observaciones|sucursales_barrio|sucursales_codigo_postal|sucursales_localidad|sucursales_provincia|sucursales_lunes_horario_atencion|sucursales_martes_horario_atencion|sucursales_miercoles_horario_atencion|sucursales_jueves_horario_atencion|sucursales_viernes_horario_atencion|sucursales_sabado_horario_atencion|sucursales_domingo_horario_atencion
+62|1|1|SAN JUAN|Mayorista|AV. RAWSON|1668|-31.552167|-68.514250|SAN JUAN|Trinidad|5400|SAN JUAN|AR-J|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|cerrado
+62|1|2|MENDOZA|Mayorista|CARRIL RODRIGUEZ PEÑA|2050|-32.928080|-68.813689|MENDOZA|Godoy Cruz|5501|MENDOZA|AR-M|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|cerrado
+62|1|3|CORDOBA|Mayorista|AV.CIRCUNVALACION E (VAL/VEL)|1378|-31.466019|-64.194080|CORDOBA|Cordoba Capital|5000|CORDOBA|AR-X|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|cerrado
+62|1|4|TUCUMAN|Mayorista|AUTO. TUCUMAN FAMAILLA|2700|-26.879867|-65.209404|TUCUMAN|San Miguel de Tucuman|4105|TUCUMAN|AR-T|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|cerrado
+
+última actualización: 2026-05-08T05:15:02-03:00

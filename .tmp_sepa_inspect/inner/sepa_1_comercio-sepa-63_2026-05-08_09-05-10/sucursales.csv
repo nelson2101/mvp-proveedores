@@ -1,0 +1,41 @@
+id_comercio|id_bandera|id_sucursal|sucursales_nombre|sucursales_tipo|sucursales_calle|sucursales_numero|sucursales_latitud|sucursales_longitud|sucursales_observaciones|sucursales_barrio|sucursales_codigo_postal|sucursales_localidad|sucursales_provincia|sucursales_lunes_horario_atencion|sucursales_martes_horario_atencion|sucursales_miercoles_horario_atencion|sucursales_jueves_horario_atencion|sucursales_viernes_horario_atencion|sucursales_sabado_horario_atencion|sucursales_domingo_horario_atencion
+63|1|66|Sucursal Comodoro Rivadavia|mayorista|Av. Yrigoyen|3057|-45.88|-67.52|||9003|Comodoro Rivadavia|AR-U|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|10:00 a 17:00
+63|1|15|Sucursal Chaco|mayorista|Ruta 11 Km.1005||-27.434656|-59.009059|||3500|Resistencia|AR-H|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|28|Sucursal Mendoza|mayorista|Rodríguez Peña|2600|-32.928843|-68.811246|||5501|Godoy Cruz|AR-M|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|35|Sucursal Rio Negro|mayorista|Misiones|1038|-39.033004|-67.585308|||8332|Gral. Roca|AR-R|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|62|Sucursal Rio Grande|mayorista|Chacabuco|1200|-53.799944|-67.737056|||9420|Rio Grande|AR-V|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|cerrado
+63|1|2|Sucursal Pacheco|mayorista|Ruta 197|2815|-34.476672|-58.66494|||1618|Pacheco|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|10|Sucursal Boulogne|mayorista|Av. Bdo. de Irigoyen|1062|-34.501719|-58.575896|||1609|Boulogne|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|17|Sucursal La Plata|mayorista|Calle 13 esq. 517||-34.893679|-57.991794|||1900|La Plata|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|65|Sucursal San Juan|mayorista|Ruta N°40 KM|3456|-31.6|-68.52|||5427|Pocitos|AR-J|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|cerrado
+63|1|27|Sucursal Cordoba|mayorista|Av.Circunvalación|1400|-31.469211|-64.176174|||5000|Córdoba|AR-X|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|14|Sucursal Posadas|mayorista|L.Quaranta y Aguado||-27.401672|-55.92907|||3300|Posadas|AR-N|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|18|Sucursal Salta|mayorista|Av Monseñor Tavella|2020|-24.8274978|-65.4271192|||4400|Salta|AR-A|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|34|Sucursal San Luis|mayorista|Av.Stos.Ortiz Km790||-33.322432|-66.359564|||5700|San Luis|AR-D|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|26|Sucursal Tucuman L|mayorista|Lavalle|3253|-26.831282|-65.248843|||4000|San Miguel de Tucumán|AR-T|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|32|Sucursal Berazategui|mayorista|Camino Gral Belgrano|2151|-34.79091|-58.244095|||1884|Berazategui|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|19|Sucursal Santa Fe|mayorista|Juan José Paso|3714|-31.660882|-60.724968|||3000|Santa Fé|AR-S|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|30|Sucursal Villa Dominico|mayorista|Centenario Uruguayo|1244|-34.702762|-58.340101|||1874|Villa Dominico|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|31|Sucursal Necochea|mayorista|Av 75|2915|-38.558202|-58.750448|||7630|Necochea|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|44|Sucursal Concordia|mayorista|San Lorenzo Oeste|1349|-31.38|-58.04|||3200|Concordia|AR-E|8 a 18|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|10:00 a 17:00
+63|1|67|Sucursal Bariloche|mayorista|Av. Esandi|1246|-41.1411|-71.2737|||8400|Bariloche|AR-R|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|cerrado
+63|1|33|Sucursal San Nicolas|mayorista|San Martin|467|-33.325367|-60.229739|||2900|San Nicolas|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|37|Sucursal Moreno|mayorista|Gaona Acceso Oeste|8676|-34.626947|-58.812239|||1744|Moreno|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|23|Sucursal Bragado|mayorista|Ruta 5 Km 210.5||-35.142619|-60.459144|||6640|Bragado|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|13|Sucursal Merlo|mayorista|Av. R. Balbin|2351|-34.670298|-58.747226|||1722|Merlo|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|12|Sucursal Campana|mayorista|RN N 9 Colectora sur|452|-34.182172|-58.95592|||2804|Campana|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|68|Sucursal Trelew|mayorista|Ruta 3 km 1462|null|-43.22|-65.3|||9100|Trelew|AR-U|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|09:00 a 17:00
+63|1|8|Sucursal Mar del Plata|mayorista|Av. Champagnat|2600|-37.989194|-57.589543|||7600|Mar del Plata|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|9|Sucursal Burzaco|mayorista|Av. Monteverde|4165|-34.835008|-58.403338|||1852|Burzaco|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|43|Sucursal Olavarria|mayorista|Avenida Pellegrini|2404|-36.90845|-60.310349|||7400|Olavarria|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|45|Sucursal San pedro|mayorista|Ruta 1001 km 8||-33.723599|-59.644489|||2930|San Pedro|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|46|Sucursal Echeverria|mayorista|Ruta de la Tradición|3701|-34.772606|-58.468665|||1801|Esteban Echeverria|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|64|Sucursal Mercado Central|mayorista|De la hoja|315|-34.711804|-58.497584|||1771|Tapiales|AR-B|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|09:00 a 16:00
+63|1|42|Sucursal Azul|mayorista|Av. Piazza|1480|-36.788987|-59.844257|||7300|Azul|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|4|Sucursal San Justo|mayorista|J. M. de Rosas|4818|-34.688893|-58.56632|||1754|San Justo|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|39|Sucursal Tigre|mayorista|Benito Lynch|230|-34.445295|-58.592506|||1744|Ciudad de Tigre|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|1|Sucursal San Miguel|mayorista|Av. Mitre|2700|-34.553983|-58.724582|||1663|San Miguel|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|16|Sucursal Loma Hermosa|mayorista|Av. Marquez|1545|-34.576469|-58.59805|||1657|Loma Hermosa|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+63|1|5|Sucursal Gonzalez Catan|mayorista|J.M. de Rosas|14720|-34.767546|-58.618113|||1757|Gonzalez Catan|AR-B|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 17:30|07:00 a 18:00|cerrado
+
+Última actualización: 2026-05-07T21:00:22-03:00

@@ -1,0 +1,5 @@
+id_comercio|id_bandera|id_sucursal|sucursales_nombre|sucursales_tipo|sucursales_calle|sucursales_numero|sucursales_latitud|sucursales_longitud|sucursales_observaciones|sucursales_barrio|sucursales_codigo_postal|sucursales_localidad|sucursales_provincia|sucursales_lunes_horario_atencion|sucursales_martes_horario_atencion|sucursales_miercoles_horario_atencion|sucursales_jueves_horario_atencion|sucursales_viernes_horario_atencion|sucursales_sabado_horario_atencion|sucursales_domingo_horario_atencion
+66|1|1|NINI Centro de compras mayoristas|mayorista|AV.520||-34.906897|-57.999335|ENTRE 23 y 25||1900|TOLOSA|AR-B|06:00 a 20:00|06:00 a 20:00|06:00 a 20:00|06:00 a 20:00|06:00 a 20:00|06:00 a 20:00|10:00 a 20:00
+66|1|2|NINI Centro de compras mayoristas MORENO|mayorista|Au. Acceso Oeste y Camino del Buen Ayre Km. 30,5 Moreno||-34.63065690434361|-58.72837228874961|||1744|PASO DEL REY|AR-B|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|10:00 a 20:00
+
+Última actualización: 2026-05-08T04:10:13-03:00

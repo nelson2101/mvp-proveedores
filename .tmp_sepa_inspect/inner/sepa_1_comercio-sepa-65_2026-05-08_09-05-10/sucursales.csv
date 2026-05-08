@@ -1,0 +1,109 @@
+﻿id_comercio|id_bandera|id_sucursal|sucursales_nombre|sucursales_tipo|sucursales_calle|sucursales_numero|sucursales_latitud|sucursales_longitud|sucursales_observaciones|sucursales_barrio|sucursales_codigo_postal|sucursales_localidad|sucursales_provincia|sucursales_lunes_horario_atencion|sucursales_martes_horario_atencion|sucursales_miercoles_horario_atencion|sucursales_jueves_horario_atencion|sucursales_viernes_horario_atencion|sucursales_sabado_horario_atencion|sucursales_domingo_horario_atencion
+65|1|1|Mercado Central|Mayorista|Av. Circunvalacion E/los Tallos y los Frutos|0|-34.712182|-58.499002|||1771|Villa Celina|AR-B|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|08:00 a 18:00|09:00 a 14:00
+65|1|2|Posadas|Mayorista|Ruta Nacional 12 e/Cerrito y Av. R.A.Dominguez|0|-27.403294|-55.901788|||3300|Posadas|AR-N|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|Cerrado
+65|1|3|Trelew|Mayorista|Av.Eva Peron 2400|0|-43.267775|-65.281537|||9100|Trelew|AR-U|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|5|San Martin|Mayorista|Av Ricardo Balbin 2886|0|-34.573955|-58.551313|||1650|San Martin|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|7|Barracas|Mayorista|Montes de Oca 2010|0|-34.649928|-58.371800|||1270|Capital Federal|AR-C|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|9|Neuquen|Mayorista|Perticone 2415|0|-38.953354|-68.025093|||8300|Neuquen|AR-Q|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|10|Junin|Mayorista|Ruta 7 y Benito de Miguel|0|-34.604656|-60.966508|||6000|Junin|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|11|Bahia Blanca|Mayorista|Av. Colon 2621/7|0|-38.739688|-62.295420|||8000|B.Blanca|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|12|La Rioja|Mayorista|Ruta Nac 38 Esq. Malivinas Argentinas|0|-29.421635|-66.828026|||5300|La Rioja|AR-F|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|13|Pilar|Mayorista|Autopista Panamericana Ramal Pilar Km 47.500|0|-34.440667|-58.844871|||1629|Pilar|AR-B|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 20:00|Cerrado
+65|1|18|Pergamino|Mayorista|Ruta 8 Malvinas Argentinas 848/880|0|-33.915102|-60.586963|||2700|Pergamino|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|19|Esquel|Mayorista|Ruta 259 Km 2|0|-42.927912|-71.350944|||9200|Colonia 16 de Octubre (Esquel)|AR-U|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|20|Santa Rosa|Mayorista|Av.Circunvalacion Ing. Sgo. Marzo y Av. Luro 2855|0|-36.645979|-64.281229|||6304|Santa Rosa|AR-L|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|21|Com. Rivadavia|Mayorista|Av. Hipolito Yrigoyen 1848 (Barrio Industrial)|0|-45.876765|-67.502696|||9002|Comodoro Rivadavia|AR-U|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|22|9 de Julio|Mayorista|Ruta 5 Km 262, 660|0|-35.470083|-60.851771|||6500|9 de Julio|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|23|Bariloche|Mayorista|Ruta Nac. 40  (Esq. Circunvalacion)|0|-41.172557|-71.335526|||8403|Bariloche|AR-R|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|25|Pinamar|Mayorista|Ruta 11-Interbalnearia km 397|0|-37.136171|-56.911519|||7163|Gral. Madariaga|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|26|Salta|Mayorista|Av.Paraguay 2273 (Esq.Juan Pablo II)|0|-24.819504|-65.425206|||4414|Salta|AR-A|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|27|Villa Mercedes|Mayorista|Ruta Nacional Nro.7 Km 694|0|-33.647655|-65.445345|||5730|Villa Mercedes|AR-D|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|28|Zapala|Mayorista|Acceso Fortabat E/Ruta Prov 14 y J.M.PAZ|0|-38.883788|-70.052162|||8340|Zapala|AR-Q|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|30|Rio Gallegos|Mayorista|Ruta Nacional Nro 3 Km 2605|0|-51.618521|-69.278954|||9400|Rio Gallegos|AR-Z|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|31|Tandil|Mayorista|Ruta Provincial 226 km 171,5|0|-37.287282|-59.176613|||7000|Tandil|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|32|Coronel Suarez|Mayorista|Ruta Provincial N 85 Km. 305|0|-37.473764|-61.949581|||7540|Coronel Suarez|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|33|Chascomus|Mayorista|Ruta Prov. N2 Km 117.5|0|-35.538049|-57.999306|||7130|Chascomus|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|36|Parana|Mayorista|Av. Almafuerte 5395|0|-31.763504|-60.446672|||3100|Parana|AR-E|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|37|Rio Grande|Mayorista|Ruta 3 Km 2821|0|-53.806193|-67.755119|||9420|Rio Grande|AR-V|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|09:00 a 18:00|Cerrado
+65|1|38|Martinez|Mayorista|Colectora ruta panamericana 1001|0|-34.504296|-58.536101|||1640|Martinez|AR-B|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|Cerrado
+65|1|42|Caleta Olivia|Mayorista|Ruta 3 E/Pocha Juarez y Julio Santos Carpio|0|-46.463972|-67.517520|||9011|Caleta Olivia|AR-Z|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|44|Calafate|Mayorista|Av 17 de Octubre e/Standhart y F. Pontoriero|0|-50.344892|-72.270734|||9405|Calafate|AR-Z|09:00 a 20:00|09:00 a 20:00|09:00 a 20:00|09:00 a 20:00|09:00 a 20:00|09:00 a 20:00|Cerrado
+65|1|45|Santiago del Estero|Mayorista|Ruta Nacional N9 Km 1141 y Rot. R.N. 64|0|-27.807612|-64.298082|||4200|Santiago del Estero|AR-G|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 17:00|Cerrado
+65|1|46|Cutral Co|Mayorista|Ludovico Pernisek y Rio Renile|0|-38.934985|-69.263464|||8322|Cutral Co|AR-Q|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|47|San Rafael|Mayorista|Av.  Mitre al 2565|0|-34.62819|-68.29057|||5600|San Rafael|AR-M|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|48|Ushuaia|Mayorista|Av. Perito Moreno 1651|0|-54.797498|-68.277307|||9410|Ushuaia|AR-V|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|Cerrado
+65|1|49|Trenque Lauquen|Mayorista|Av. Garcia Salinas 1475|0|-35.983199|-62.7282447|||6400|Trenque Lauquen|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|60|Pehuajo|Mayorista|Acceso Kirchner 851|0|-35.817430|-61.880509|||6450|Pehuajo|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|61|Puerto Deseado|Mayorista|Don Bosco 970|0|-47.752494|-65.893118|||9050|Puerto Deseado|AR-Z|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|62|Tres Arroyos|Mayorista|Av. San Martin  870|0|-38.3703734|-60.2850703|||7500|Tres Arroyos|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|Cerrado
+65|1|64|General Pico|Mayorista|Ruta Prov. N1 y Camino Aeropuerto|0|-35.679214|-63.7664576|||6360|General Pico|AR-L|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|Cerrado
+65|1|67|Piedrabuena|Mayorista|Av. Papa Francisco 621|0|-49.989339|-68.925831|||9303|C. Piedrabuena|AR-Z|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|68|El Bolson|Mayorista|Av. San Martin 510|0|-41.987084|-71.541888|||8430|El Bolson|AR-R|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|69|Venado Tuerto|Mayorista|Ruta 8 y calle Iturraspe 1710|0|-33.7565354|-61.9733951|||2600|Venado Tuerto|AR-S|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|Cerrado
+65|1|71|Junin de los Andes|Mayorista|Ruta 40 N1125|0|-39.934243|-71.068763|||8371|Junin de los andes|AR-Q|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|Cerrado
+65|1|74|Chilecito|Mayorista|AV. Eva Peron 604 F5360 Chilecito|0|-29.174260|-67.493813|||5360|LA RIOJA|AR-F|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|08:00 a 18:00|09:00 a 14:00
+65|1|75|Chos Malal|Mayorista|Los Apostoles 0 y Circunvalacion Chos Malal|0|-37.378367|-70.264232|||8353|Neuquen|AR-Q|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|08:00 a 18:00|09:00 a 14:00
+65|1|78|Rafaela|Mayorista|Constitucion 920|0|-31.154457|-61.691211|||2300|RAFAELA|AR-S|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|79|Viedma II|Mayorista|Ruta Nacional 3 Y Av. Valenzuela|0|-40.484968|-63.005315|||8500|Viedma|AR-R|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|87|Rio Turbio|Mayorista|AV. Yacimientos carboniferos Fiscales S/N|0|-51.537281|-72.325551|||9407|SANTA CRUZ|AR-Z|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|08:00 a 18:00|09:00 a 14:00
+65|1|302|Eva Peron 2701 (CAP)|Mayorista|Av. Eva Peron 2701|0|-34.6414755|-58.4599669|||1406|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|303|Saenz 1136 (CAP)|Mayorista|Av Saenz 1136|0|-34.6536789|-58.4182991|||1437|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|306|Tacuari 419 (CAP)|Mayorista|Tacuari 419|0|-34.6131941|-58.3813187|||1071|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|307|Pueyrredon 582 (CAP)|Mayorista|Av. Pueyrredon 582|0|-34.6036205|-58.4074442|||1032|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|313|Castanares 4758 (CAP)|Mayorista|Av. Castanares 4758|0|-34.6663992|-58.474209|||1439|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|317|Entre Rios 785 (CAP)|Mayorista|Av. Entre Rios 785|0|-34.6178934|-58.3941288|||1080|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|318|Cabildo 3327 (CAP)|Mayorista|Av. Cabildo 3327/29|0|-34.5516934|-58.4679185|||1429|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|319|Alvarez Jonte 3629 (CAP)|Mayorista|Alvarez Jonte 3629|0|-34.6129699|-58.4948301|||1407|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|322|Almafuerte 3464 (SAN JUSTO)|Mayorista|Almafuerte 3464|0|-34.6806855|-58.5579768|||1754|San Justo|AR-B|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|323|Alberdi 6429 (CAP)|Mayorista|Alberdi 6429|0|-34.6556436|-58.5097927|||1440|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|334|Avellaneda 1990 (CAP)|Mayorista|Avellaneda 1990|0|-34.643756|-58.5162073|||1406|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|335|Patricios 945 (CAP)|Mayorista|Av.Patricios 945|0|-34.6808664|-58.5622639|||1265|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|339|San Lorenzo 2301 (SAN MARTIN)|Mayorista|Av. San Lorenzo 2301/2311|0|-34.5751013|-58.5429263|||1650|San Martin|AR-B|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|340|Diaz Velez 4402 (CAP)|Mayorista|Av. Diaz Velez 4402|0|-34.6062811|-58.4260474|||1200|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|342|Montes de Oca 1049 (CAP)|Mayorista|Av Montes de Oca 1049|0|-34.6315221|-58.3918801|||1270|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|345|Martin Garcia 653 (CAP)|Mayorista|Martin Garcia 653|0|-34.7007958|-58.4563351|||1268|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|346|Independencia 2490 (CAP)|Mayorista|Av Independencia 2490|0|-34.6911898|-58.5581433|||1225|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|348|Corrientes 2970 (CAP)|Mayorista|Av.Corrientes 2970|0|-34.604433|-58.407424|||1193|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|351|Rivadavia 8517 (CAP)|Mayorista|Av. Rivadavia 8517/21|0|-34.633939|-58.483263|||1407|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|353|Ramon Castillo (CAP)|Mayorista|Ramon Castillo 1721|0|-34.578364|-58.386076|||1104|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|354|Honorio Pueyrredon (CAP)|Mayorista|Honorio Pueyrredor 1740|0|-34.601248|-58.450516|||1414|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|357|Acoyte 260 (CAP)|Mayorista|Av.Acoyte 260|0|-34.614866|-58.437230|||1405|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|360|Pueyrredon 1068 (CAP)|Mayorista|Av.Pueyrredon 1068|0|-34.597728|-58.403055|||1405|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|362|Gascon 685 (CAP)|Mayorista|Gascon 685|0|-34.603266|-58.423942|||1181|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|367|Av Alte Brown 1057 (CAP)|Mayorista|Av. Alte Brown 1057/67|0|-34.633931|-58.359350|||1159|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|368|Alvear 2331|Mayorista|Alvear 2335|0|-34.546703|-58.550620|||1653|SAN MARTIN|AR-B|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|369|Av. Lope de Vega 1888 (CAP)|Mayorista|Av. Lope de Vega 1888|0|-34.622579|-58.512817|||1417|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|370|Baez 777 (CAP)|Mayorista|Baez 777|0|-34.568941|-58.435300|||1426|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|373|Av. Juan Bautista Alberdi 77 (CAP)|Mayorista|Av. Juan Bautista Alberdi 77|0|-34.621872|-58.428091|||1424|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|381|Av. Corrientes 5288 (CAP)|Mayorista|Av. Corrientes 5288|0|-34.59932093547|-58.43902465529|||1414|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|382|Rivadavia 8224 (CAP)|Mayorista|Av.Rivadavia 8224|0|-34.63329257521|-58.47809951719|||1407|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|383|San Martin 546 (CAP)|Mayorista|San Martin 546|0|-34.598049|-58.482654|||1417|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|384|Av.Rivadavia 11678 (CAP)|Mayorista|Av.Rivadavia 11678|0|-34.63942249914|-58.52872900264|||1408|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|385|Av. Corrientes 1900 (CAP)|Mayorista|Av.Corrientes 1900|0|-34.60444499499|-58.39396493150|||1025|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|386|Rio de Janeiro 793 (CAP)|Mayorista|Rio de Janeiro 793|0|-34.60604483696|-58.43048822963|||1405|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|387|AV. Diaz Velez 4173/4175 (CAP)|Mayorista|Av. Diaz Velez 4173/4175|0|34.363071|58.253269|||1200|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|388|Av.Corrales 7417 (CAP)|Mayorista|Av. Corrales 7417|0|-34.66843500486|-58.50778319086|||1440|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|389|Av.Lope de Vega 1055 (CAP)|Mayorista|Av. Lope de Vega 1055|0|-34.62923057842|-58.50465253134|||1407|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|390|Av. San Juan 2692 (cap)|Mayorista|Av. San Juan 2692|0|-34.62374677026|-58.40191507552|||1232|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|391|Av. Triunvirato 4207 (CAP)|Mayorista|Av. Triunvirato 4207|0|-34.57798313405|-58.48003744484|||1431|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|394|Lavalle 1765 (CAP)|Mayorista|Lavalle 1765|0|-34.60281985600|-58.39188718912|||1048|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|395|Nazarre 2512/14 (CAP)|Mayorista|Nazarre 2512/14|0|-34.597679|-58.486744|||1417|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|396|Av.Cabildo 4662 (CAP)|Mayorista|Av.Cabildo 4662|0|-34.541747|-58.473812|||1429|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|397|Av.Francisco Beiro 5450 (CAP)|Mayorista|Av. Francisco Beiro 5450|0|-34.615461|-58.526700|||1419|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|398|Av.Rivadavia 9748 (CAP)|Mayorista|Av. Rivadavia 9748|0|-34.637762|-58.501327|||1407|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|399|Camarones 1412/1424 (CAP)|Mayorista|Camarones 1412/1424|0|-34.603631|-58.462247|||1416|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|400|Av.Sarmiento 1641|Mayorista|Av Sarmiento 1641|0|-34.323439|-58.425286|||1663|SAN MIGUEL|AR-B|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|401|Arce 434 (CAP)|Mayorista|Arce 434|0|-34.5703551|-58.4319396|||1426|CABA|AR-C|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|402|Cabello 3417 (CAP)|Mayorista|Cabello 3417|0|-34.5811824|-58.4089028|||1425|CABA|AR-C|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|403|Rivadavia 2446 (CAP)|Mayorista|Av.Rivadavia 2446|0|-34.6104919|-58.4018976|||1034|CABA|AR-C|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|404|J.B.Alberdi 7443/47 (CAP)|Mayorista|Juan Bautista Alberdi 7443/47|0|-34.6616751|-58.5171956|||1440|CABA|AR-C|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|405|Garay 691 (CAP)|Mayorista|Garay 691 Esq. Chacabuco|0|-34.624351|-58.375504|||1153|CABA|AR-C|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 18:00|08:00 a 17:00|Cerrado
+65|1|406|Lima 29|Mayorista|Lima 29|0|-34.096054|-59.024960|||2800|ZARATE|AR-B|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|407|Av.Rivadavia 7270 (CAP)|Mayorista|Av. Rivadavia 7270|0|-34.630310|-58.467832|||1406|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|408|Av.Rivadavia 10321 (CAP)|Mayorista|Av. Rivadavia 10321|0|-34.638924|-58.509084|||1408|CABA|AR-C|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|409|Justa de Lima de Atucha 624|Mayorista|Justa de Lima de Atucha 624|0|-34.100430|-59.021128|||2800|ZARATE|AR-B|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|410|Av.Corrientes 820 (CAP)|Mayorista|Av.Corrientes 820|0|-34.603523|-58.378888|||1043|CABA|AR-B|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|411|Uruguay 1163 (CAP)|Mayorista|Uruguay 1163|0|-34.595093|-58.387235|||1016|CABA|AR-B|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+65|1|412|Av. San Martin 2824|Mayorista|Av. San Martin 2824|0| | |||1028|CASEROS|AR-B|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|08:00 a 21:00|Cerrado
+
+Ultima actualizacion: 2026-05-07T23:43:15-03:00

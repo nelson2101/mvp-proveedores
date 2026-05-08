@@ -1,0 +1,23 @@
+﻿id_comercio|id_bandera|id_sucursal|sucursales_nombre|sucursales_tipo|sucursales_calle|sucursales_numero|sucursales_latitud|sucursales_longitud|sucursales_observaciones|sucursales_barrio|sucursales_codigo_postal|sucursales_localidad|sucursales_provincia|sucursales_lunes_horario_atencion|sucursales_martes_horario_atencion|sucursales_miercoles_horario_atencion|sucursales_jueves_horario_atencion|sucursales_viernes_horario_atencion|sucursales_sabado_horario_atencion|sucursales_domingo_horario_atencion
+60|1|0014|Loma Hermosa|mayorista|Av. Marquez|969|-34.571952|-58.593561||Loma Hermosa|1657|Loma Hermosa|AR-B|08:00 a 18:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:30 a 20:00|cerrado
+60|1|0013|La Plata|mayorista|Av. 520 e/ 21 y 23|2650|-34.905422|-57.997406||La Plata|1900|La Plata|AR-B|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|08:30 a 20:30|cerrado
+60|1|0012|Quilmes|mayorista|Av. Calchaqui|955|-34.737325|-58.295289||Quilmes|1879|Quilmes|AR-B|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|08:30 a 20:00|cerrado
+60|1|0011|Abasto|mayorista|Gallo|149|-34.606777|-58.413809||Abasto|1172|CABA|AR-C|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|08:30 a 20:30|cerrado
+60|1|0001|San Justo|mayorista|Monsr. Bufano|2950|-34.682518|-58.570546||San Justo|1754|San Justo|AR-B|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:30 a 20:00|cerrado
+60|1|0010|Tronador|mayorista|Tronador|400|-34.586337|-58.468552||Villa Ortuzar|1427|CABA|AR-C|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|08:30 a 20:30|cerrado
+60|1|0008|Malvinas Argentinas|mayorista|RP 8 Km. 35|0|-34.507477|-58.730475||Malvinas Argentinas|1660|Malvinas Argentinas|AR-B|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:30 a 19:00|cerrado
+60|1|0007|Laferrere|mayorista|RN 3 Km. 25|0|-34.724426|-58.600465||Laferrere|1757|Laferrere|AR-B|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|07:00 a 18:00|08:30 a 18:00|cerrado
+60|1|0006|Moreno|mayorista|Acceso Oeste y Graham Bell|0|-34.635470|-58.760296||Moreno|1744|Moreno|AR-B|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|07:00 a 20:00|08:30 a 20:30|cerrado
+60|1|0015|El Talar|mayorista|Av. Hipolito Yrigoyen|2420|-34.4734372|-58.6582857||El Talar|1618|El Talar|AR-B|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:30 a 20:30|cerrado
+60|1|0016|Avellaneda|mayorista|Av. Carlos Fiorito|920|-34.664053|-58.388784||Avellaneda|1921|Avellaneda|AR-B|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:30 a 20:00|cerrado
+60|1|0002|Burzaco|mayorista|Av. Monteverde|4100|-34.834831|-58.404571||Burzaco|1852|Burzaco|AR-B|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|08:30 a 20:00|cerrado
+60|1|0017|Posadas|mayorista|RN 12  entre 160 y 166|0|-27.422499|-55.898267||Posadas|3300|Posadas|AR-N|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:30 a 20:00|cerrado
+60|1|0018|Resistencia|mayorista|RN 16 Km. 15|0|-27.408739|-58.981505||Resistencia|3500|Resistencia|AR-H|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:30 a 20:00|cerrado
+60|1|0021|Mar Del Plata|mayorista|RP 88 Km. 5|0|-38.008792|-57.616743||Mar Del Plata|7600|Mar Del Plata|AR-B|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|07:00 a 19:00|08:30 a 20:00|cerrado
+60|1|0022|Bahia Blanca|mayorista|RN 3 Km. 690|0|-38.737641|-62.296665|a 200 m de la rotonda de Av.Colón|Bahia Blanca|8000|Bahia Blanca|AR-B|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:00 a 20:00|08:30 a 20:00|cerrado
+60|1|0019|Neuquen|mayorista|RN 22 Km. 1218 y Paimun|0|-38.955754|-68.028048||Neuquen|8300|Neuquen|AR-Q|08:30 a 20:30|08:30 a 20:30|08:30 a 20:30|08:30 a 20:30|08:30 a 20:30|08:30 a 20:30|cerrado
+60|1|0020|Santa Fe|mayorista|RN 11 Km 477,2|0|-31.567441|-60.735967||Recreo|3018|Recreo|AR-S|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:30 a 19:00|cerrado
+60|1|0023|Pilar|mayorista|Av. 12 De Octubre RN 8 Km 49|0|-34.441875|-58.853261||Pilar|1629|Pilar|AR-B|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|cerrado
+60|1|0024|Salta|mayorista|Av. Paraguay|2259|-24.81938|-65.425814||Salta|4414|Salta|AR-A|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|08:00 a 20:30|08:30 a 20:30|10:00 a 19:00
+
+Ultima Actualización: 2026-05-08T05:33:10-03:00

@@ -1,0 +1,7 @@
+﻿id_comercio|id_bandera|id_sucursal|sucursales_nombre|sucursales_tipo|sucursales_calle|sucursales_numero|sucursales_latitud|sucursales_longitud|sucursales_observaciones|sucursales_barrio|sucursales_codigo_postal|sucursales_localidad|sucursales_provincia|sucursales_lunes_horario_atencion|sucursales_martes_horario_atencion|sucursales_miercoles_horario_atencion|sucursales_jueves_horario_atencion|sucursales_viernes_horario_atencion|sucursales_sabado_horario_atencion|sucursales_domingo_horario_atencion
+70|1|1|Sucursal Crespo|mayorista|Alamfuerte|748|-32.04524700|-60.31754000|||3116|Crespo|AR-E|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|08:00 a 19:00|cerrado
+70|1|2|Sucursal Maria Grande|mayorista|Justo José de Urquiza|674|-31.66396700|-59.90107300|||3150|Maria Grande|AR-E|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|cerrado
+70|1|3|Sucursal Valle María|mayorista|Ruta 11 Km 30|405|-31.98483400|-60.58605400|||3150|Valle María|AR-E|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|09:00 a 19:00|cerrado
+70|1|4|Sucursal Nogoya Sur|mayorista|Coronel Dorrego|2050|-32.40662400|-59.79382100|||3156|Nogoya|AR-E|08:00 a 16:00|08:00 a 16:00|08:00 a 16:00|08:00 a 16:00|08:00 a 16:00|08:00 a 15:00|cerrado
+
+Última actualización: 2026-05-07T18:47:11-03:00
