@@ -4,7 +4,7 @@ import { create } from 'zustand'
 
 const STORAGE_KEY = 'selected_products'
 
-type SelectedProduct = {
+export type SelectedProduct = {
   productId: string
   productName: string
   quantity: number
