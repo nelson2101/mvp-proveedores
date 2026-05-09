@@ -173,16 +173,66 @@ def download_zip(zip_info: Dict[str, str], temp_dir: Path) -> Optional[Path]:
 
 
 def extract_zip(zip_path: Path, temp_dir: Path) -> Optional[Path]:
-    """Extract ZIP and find CSV."""
+    """Extract ZIP and find CSV. Handles nested ZIPs."""
     logging.info("Extracting ZIP...")
     try:
         with zipfile.ZipFile(zip_path) as zf:
+            # List all files in ZIP
+            logging.info("Files in ZIP:")
+            for file_info in zf.filelist:
+                logging.info(f"  {file_info.filename}")
+
             zf.extractall(temp_dir / "extracted")
 
-        # Find CSV file
+        # Check if there are nested ZIPs
+        nested_zips = list((temp_dir / "extracted").rglob("*.zip"))
+        if nested_zips:
+            logging.info(f"Found {len(nested_zips)} nested ZIPs")
+            # List all ZIP names for debugging
+            for z in nested_zips:
+                logging.info(f"  Available ZIP: {z.name}")
+
+            # Try to find one with product data by extracting and checking
+            for zip_path in nested_zips[:3]:  # Try first 3 ZIPs
+                logging.info(f"Trying ZIP: {zip_path.name}")
+                try:
+                    with zipfile.ZipFile(zip_path) as zf:
+                        zf.extractall(temp_dir / f"test_{zip_path.name}")
+                    csv_files = list((temp_dir / f"test_{zip_path.name}").rglob("*.csv"))
+                    if csv_files:
+                        csv_path = csv_files[0]
+                        # Check if it has product columns
+                        df_sample = pd.read_csv(csv_path, nrows=1)
+                        if 'producto_descripcion' in df_sample.columns:
+                            logging.info(f"Found product CSV in: {zip_path.name}")
+                            return csv_path
+                        else:
+                            logging.info(f"ZIP {zip_path.name} has columns: {list(df_sample.columns)}")
+                except Exception as e:
+                    logging.warning(f"Failed to check {zip_path.name}: {e}")
+
+            # Fallback: use the first ZIP
+            logging.warning("No product ZIP found, using first available")
+            latest_nested = nested_zips[0]
+            with zipfile.ZipFile(latest_nested) as zf:
+                zf.extractall(temp_dir / "nested_extracted")
+
+            csv_files = list((temp_dir / "nested_extracted").rglob("*.csv"))
+            if csv_files:
+                csv_path = csv_files[0]
+                logging.info(f"Using fallback CSV: {csv_path}")
+                return csv_path
+
+        # Fallback: look for CSV in main extraction
         csv_files = list((temp_dir / "extracted").rglob("*.csv"))
         if not csv_files:
             logging.error("No CSV found in ZIP")
+            # List all files extracted
+            all_files = list((temp_dir / "extracted").rglob("*"))
+            logging.info("All extracted files:")
+            for f in all_files:
+                if f.is_file():
+                    logging.info(f"  {f}")
             return None
 
         csv_path = csv_files[0]  # Assume first CSV
